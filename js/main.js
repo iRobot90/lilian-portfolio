@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════
-   LILIAN SHIHUNDU OPETE — Portfolio JS
+   LILIAN SHIHUNDU OPETE - Portfolio JS
    ═══════════════════════════════════════════ */
 
 // ── LIGHTBOX DATA ──
@@ -7,12 +7,12 @@ const galleryData = [
   { src: 'assets/images/hero.jpg',      cap: 'Studio Portrait' },
   { src: 'assets/images/runway-1.jpg',  cap: 'Runway Walk' },
   { src: 'assets/images/pageant-1.jpg', cap: 'Miss Deaf ASK Mombasa 2024' },
-  { src: 'assets/images/pageant-2.jpg', cap: 'Miss Deaf Africa 2021 — Kenya' },
+  { src: 'assets/images/pageant-2.jpg', cap: 'Miss Deaf Africa 2021 - Kenya' },
   { src: 'assets/images/award-1.jpg',   cap: 'Coast Fashion & Modelling Awards 2025' },
   { src: 'assets/images/runway-2.jpg',  cap: 'Fashion Show' },
   { src: 'assets/images/award-2.jpg',   cap: 'Photogenic Model of the Year 2025' },
   { src: 'assets/images/runway-3.jpg',  cap: 'Backstage' },
-  { src: 'assets/images/cert-mmdi.jpg', cap: 'Best Cultural Attire — MMDI 2022' },
+  { src: 'assets/images/cert-mmdi.jpg', cap: 'Best Cultural Attire - MMDI 2022' },
 ];
 
 let lbIdx = 0;
